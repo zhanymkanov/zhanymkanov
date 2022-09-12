@@ -9,7 +9,7 @@ where we help defi weirdos to swap tokens with the best rates at the moment
   - 💸 raised a decent pre-seed round
   - 🍀 built a great team & vibes
   - 💔 couldn't find product-market fit, though we were loved at product hunt ([#2](https://www.producthunt.com/products/peerlink-simple-webpage-for-coaches) and [#3](https://www.producthunt.com/products/qoob) for both products)
-- engineered reliable & scalable APIs, distributed data pipelines & crawlers for processing millions of online items
+- engineered reliable & scalable APIs, video processing & streaming services, distributed data pipelines & crawlers for processing millions of online items
 
 ### 🎨 Interests
 - Daily I use Python 🐍, and most of my shareable knowledge is about this gil-ly.
