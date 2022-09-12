@@ -2,7 +2,7 @@
 My name is Yerassyl, and I'm a software engineer from Kazakhstan 🇰🇿
 
 ### 👋 About me
-- senior software engineer at a [via.exchange](https://via.exchange), 
+- senior software engineer at [via.exchange](https://via.exchange), 
 where we help defi weirdos to swap tokens with the best rates at the moment 
 - previously co-founded [peerlink.me](https://hi.peerlink.me)
   - 🏗 simple website builder for coaches, which has been pivoted from [all-in-one platform](myqoob.com) for creators
