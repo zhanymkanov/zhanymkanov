@@ -14,7 +14,7 @@ where we help defi weirdos to bridge tokens with the best rates
 ### 🎨 Interests
 - Daily I use Python, and most of my shareable knowledge is about this gil-ly 🐍
 - I work in crypto, and do some stuff with Rust 🦀
-  - if you want to learn crypto and from Central Asia, feel free to join [our community](https://t.me/blockchain_ca) of devs
+  - if you want to learn crypto and you are from Central Asia, feel free to join [our community](https://t.me/blockchain_ca) of devs
 
 ### ✍️ You can find me on
 - [medium](https://medium.com/@zhanymkanov)
