@@ -19,4 +19,4 @@ where we help defi weirdos to bridge tokens with the best rates
 ### ✍️ You can find me on
 - [medium](https://medium.com/@zhanymkanov)
 - [twitter](https://twitter.com/zhanymkanov)
-- [telegram](https://t.me/zhanymkanov)
+- [telegram](https://t.me/ezerez)
