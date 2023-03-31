@@ -10,4 +10,3 @@
 ### ✍️ find me on
 - [twitter](https://twitter.com/zhanymkanov)
 - [medium](https://medium.com/@zhanymkanov)
-- [our community of crypto devs](https://t.me/blockchain_ca) in Central Asia
