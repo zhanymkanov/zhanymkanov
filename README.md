@@ -1,5 +1,5 @@
 ### 📍 about me
-- senior software engineer at [via.exchange](https://via.exchange)
+- co-founder at [via.exchange](https://via.exchange)
 - previously co-founded [myqoob.com](https://myqoob.com)
   - 🔨 simple website builder for coaches, which has been pivoted from all-in-one platform for creators
   - 💸 raised a decent pre-seed round
