@@ -1,5 +1,5 @@
 ### 📍 about me
-- co-founder at [via.exchange](https://via.exchange)
+- co-founder at [dappSheriff](https://dappsheriff.com), [via.exchange](https://via.exchange)
 - previously co-founded peerlink
   - 🔨 simple website builder for coaches, which has been pivoted from all-in-one platform for creators
   - 💸 raised a decent pre-seed round
