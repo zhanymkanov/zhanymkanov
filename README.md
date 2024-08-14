@@ -1,10 +1,8 @@
 ### 📍 about me
 - co-founder at [dappSheriff](https://dappsheriff.com)
+  - no money -> found the problem -> built a product -> cash out
 - previously co-founded peerlink
-  - 🔨 simple website builder for coaches, which has been pivoted from all-in-one platform for creators
-  - 💸 raised a decent pre-seed round
-  - 🍀 built a great team & vibes
-  - 💔 couldn't reach product-market fit, though we were loved at product hunt ([#2](https://www.producthunt.com/products/peerlink-simple-webpage-for-coaches) and [#3](https://www.producthunt.com/products/qoob) for both products)
+  - raised VC -> built a team -> built a [product](https://www.producthunt.com/products/qoob) -> found the [problem](https://www.producthunt.com/products/peerlink-simple-webpage-for-coaches) -> no money
 - engineered reliable & scalable APIs, video streaming & processing services, distributed data pipelines & crawlers for analyzing millions of online items
 
 ### ✍️ find me on
