@@ -3,7 +3,7 @@
   - no money -> found the problem -> built a product -> cash out
 - previously co-founded peerlink
   - raised VC -> built a team -> built a [product](https://www.producthunt.com/products/qoob) -> found the [problem](https://www.producthunt.com/products/peerlink-simple-webpage-for-coaches) -> no money
-- engineered reliable & scalable APIs, video streaming & processing services, distributed data pipelines & crawlers for analyzing millions of online items
+- engineered reliable & scalable APIs, distributed blockhain data pipelines, video streaming & processing services, and crawlers for analyzing the national markets.
 
 ### ✍️ find me on
 - [twitter](https://twitter.com/zhanymkanov)
