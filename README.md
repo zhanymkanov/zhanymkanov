@@ -1,7 +1,7 @@
 ### 📍 about me
 - data lead at [@debridge-finance](https://github.com/debridge-finance)
 - previously
-  - co-founder at [dappSheriff](https://dappsheriff.com)
+  - co-founder at dappSheriff
     - no money -> found the problem -> built a product -> cash out
   - co-founded peerlink
     - raised VC -> built a team -> built a [product](https://www.producthunt.com/products/qoob) -> found the [problem](https://www.producthunt.com/products/peerlink-simple-webpage-for-coaches) -> no money
