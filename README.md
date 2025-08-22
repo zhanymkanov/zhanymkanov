@@ -1,5 +1,5 @@
 ### 📍 about me
-- data lead at [@debridge-finance](https://github.com/debridge-finance)
+- tech lead at [@debridge-finance](https://github.com/debridge-finance)
 - previously
   - co-founder at dappSheriff
     - no money -> found the problem -> built a product -> cash out
