@@ -8,6 +8,6 @@
 - engineered distributed blockhain data pipelines, video streaming & processing services, crawlers for analyzing national markets, and battletested APIs
 
 ### ✍️ find me on
-- [twitter](https://twitter.com/zhanymkanov)
+- [twitter](https://twitter.com/ezerez)
 - [medium](https://medium.com/@zhanymkanov)
 - [telegram](https://t.me/ezerez_dev)
